@@ -1,7 +1,7 @@
-### fb-pages
+## fb-pages
 Trial scripts for exploring the Facebook Graph API and fetching posts from public Facebook pages
 
-## Project Setup
+#### Project Setup
 * Clone the project using this link https://github.com/NLSanyu/fb-pages.git
 * Create a python virtual environment and activate it (or use the `conda base` environment)
 * Install the requirements using `pip install -r requirements.txt`
